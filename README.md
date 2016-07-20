@@ -34,5 +34,6 @@ POST http://nectorc.ezako.com:8080/collector/
 		"NETWORK_error":0,
 		"NETWORK_pingtime":900
 	}]
-}```
+}
+```
 
